@@ -1,19 +1,19 @@
 ## Olá, Eu sou o Kevyn Mendes
  <p> Cursando o 2º Semestre em Análise e Desenvolvimento de Dados.<p>
 <div style="display: flex;">
-    <img height="180em"src="https://github-readme-stats.vercel.app/api?username=KevynMendes&theme=merko&show_icons=true&hide=contribs,prs">
-    <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynmendes&layout=compact&theme=merko">
+    <img height="150em"src="https://github-readme-stats.vercel.app/api?username=KevynMendes&theme=merko&show_icons=true&hide=contribs,prs">
+    <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynmendes&layout=compact&theme=merko">
 </div>
   <br
     ##
 <div style="display: flex;">
     <div style="display: inline_block">
-        <img align="center" alt="Html" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-        <img align="center" alt="Css" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-        <img align="center" alt="JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-        <img align="center" alt="NodeJs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-        <img align="center" alt="React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-        <img align="center" alt="Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+        <img align="center" alt="Html" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+        <img align="center" alt="Css" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+        <img align="center" alt="JavaScript" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+        <img align="center" alt="NodeJs" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="React" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+        <img align="center" alt="Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
     </div>
   
   ##
