@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Kevyn Mendes
- <p> Atualmente cursando o 2º Semestre em Análise e Desenvolvimento de Dados.<p>
+ <p> Atualmente cursando o 2º Semestre em Análise e Desenvolvimento de Sistemas.<p>
 <div style="display: flex;">
     <img height="150em"src="https://github-readme-stats.vercel.app/api?username=KevynMendes&theme=merko&show_icons=true&hide=contribs,prs">
     <img height="150em" width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevynmendes&layout=compact&theme=merko">
